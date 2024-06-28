@@ -26,7 +26,7 @@ Data often needs contextualized for readability.  This can mean normalizing so v
 
 See the "Resources" folder various example color palettes and plotting examples.  Note that none of these are endorsed, per se, but rather provided for developing a discussion.
 
-The AnthonyColors.json palettes can be previewed by opening the PaletteVis.html file in a browser.
+The AnthonyColors.json palettes can be previewed [here](https://frkatona.github.io/Subpages/0_unlisted/PalettePreview/PalettePreview.html).
 
 ### Data
 

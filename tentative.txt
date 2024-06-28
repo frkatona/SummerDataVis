@@ -1,6 +1,0 @@
-Projects
-
-1) Basic plotting (covering general best practices)
-2) Extracting data from more complex data sets (Pokémon csv)
-3) Working up data (normalization/correction, fitting, statistics)
-4) Narrative/focus (highlighting relevant story points within the figure)

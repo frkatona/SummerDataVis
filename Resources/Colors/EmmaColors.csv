@@ -1,0 +1,19 @@
+name, hex, purpose
+White, #FFFFFF, background
+Black, #000000, text
+Boulder-Gray, #757575, secondary label text
+Pine-Green, #00796B, link text
+Smalt-Blue, #4F8F84, plot color (main)
+Ruby-Red, #E91E63, plot color (spectrum-1)
+Pomegranate-Red, #F44336, plot color (spectrum-2)
+OrangePeel-Orange, #FF9800, plot color (spectrum-3)
+FruitSalad-Green, #4CAF50, plot color (spectrum-4)
+Persian-Green, #009688, plot color (spectrum-5)
+Curious-Blue, #1E88E5, plot color (spectrum-6)
+Keppel-Blue, #42AEA5, graphic - liquid color 1
+Pixie-Green, #BAD9B2, graphic - feature highlight
+SpiceMix-Brown, #815C43, graphic - liquid color 2
+Sceance-Purple, #9C27B0, plot color (spectrum2-1)
+Orange, #FF5722, plot color (spectrum2-2)
+Dodger-Blue, #2196F3, plot color (spectrum2-3)
+Apple-Green, #43A047, plot color (spectrum2-4)
